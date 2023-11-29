@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: 2023-08-24T21:48:21-04:00
+date: 2023-08-24T21:48:21-05:00
 draft: true
 tags: ["tag1", "tag2"]
 ---

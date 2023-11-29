@@ -1,6 +1,6 @@
 ---
 title: "My Third Post"
-date: 2023-08-24T21:54:45-04:00
+date: 2023-08-24T21:54:45-05:00
 draft: true
 ---
 ## Introduction to third page
