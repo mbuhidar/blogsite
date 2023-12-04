@@ -18,13 +18,13 @@ params:
   description: "My personal blog."
   keywords: [Blog, Portfolio, Linux, michaelbuhidar, Mike Buhidar, C64, Python, retro computing]
   author: Michael Buhidar
-  images: ["https://avatars.githubusercontent.com/u/40150224?v=4"]
-  DateFormat: "January 2, 2016"
+  #images: ["https://avatars.githubusercontent.com/u/40150224?v=4"]
+  #DateFormat: "September 26, 2023"
   defaultTheme: auto # dark, light, auto
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
@@ -36,7 +36,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -49,7 +49,7 @@ params:
     safari_pinned_tab: "https://avatars.githubusercontent.com/u/40150224?v=4"
 
   label:
-    text: " "
+    text: "Michael Buhidar"
     icon: "https://avatars.githubusercontent.com/u/40150224?v=4"
     iconHeight: 25
 

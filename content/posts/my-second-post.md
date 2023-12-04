@@ -1,6 +1,6 @@
 ---
 title: "My Second Post"
-date: 2023-08-24T21:49:21-05:00
+date: 2023-08-25T21:49:21-05:00
 draft: true
 ---
 ## Introduction to page 2
