@@ -1,6 +1,6 @@
 # Blog site
 
-My personal blog site with [PaperMod](https://git.io/hugopapermod) and [Hugo](https://gohugo.io).
+My personal blog site powered by [Hugo](https://gohugo.io) and [PaperMod](https://git.io/hugopapermod).
 
 ### Run
 
