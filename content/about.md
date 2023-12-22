@@ -15,7 +15,7 @@ By profession, I'm a product development engineer working to create construction
 
 I am an open-source enthusiast. I have learned so much from the open-source community and I am excited about how it brings developers together from all around the world. I also enjoy helping people learn new things and solve problems.
 
-My primary projects relate to modernizing the experience of typing in Commodore 64 games from magazines popular in the 80's (throwback to my coding interests when I was in middle/high school). Using those projects mostly to learn by creating something "real" to hone not only Python skills, but also learning/knowledge for C64 BASIC, Assembly, Pytest, Git, Github, releasing projects on PyPi, and so many other things.
+My primary projects relate to modernizing the experience of typing in Commodore 64 games from magazines popular in the 80's (throwback to my coding interests when I was in middle/high school). Using those projects mostly to learn by creating something "real" to hone not only Python skills, but also learning/knowledge for C64 BASIC, Assembly, pytest, Git, Github, releasing projects on PyPi, and so many other things.
 
 ### My development environment 
 

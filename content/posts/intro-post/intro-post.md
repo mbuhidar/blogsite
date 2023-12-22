@@ -20,7 +20,7 @@ I am an open-source enthusiast. I have learned so much from the open-source comm
 
 ## Projects
 
-My recent projects relate to modernizing the experience of typing in Commodore 64 games from magazines popular in the 80's (throwback to my coding interests when I was in middle/high school).  I use those projects to learn by creating something "real" to hone not only Python skills, but also Assembly, Pytest, pre-commit, Git, Github, PyPi release process, and so many other things.
+My recent projects relate to modernizing the experience of typing in Commodore 64 games from magazines popular in the 80's (throwback to my coding interests when I was in middle/high school).  I use those projects to learn by creating something "real" to hone not only Python skills, but also Assembly, pytest, pre-commit, Git, Github, PyPi release process, and so many other things.
 
 ### Wood Stove Damper Regulator
 One of my projects is a [**wood stove damper regulator**](https://github.com/mbuhidar/WoodStoveRegulator), a microcontroler-powered stove damper regulation system that automatically controls the air damper position on a wood stove to maintain a constant stove temperature.
