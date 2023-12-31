@@ -1,6 +1,6 @@
 ---
 title: "Template Post"
-date: 2023-08-25T21:49:21-05:00 # Get current iso 8601 date/time with {{ now.Format "2006-01-02T15:04:05-07:00" }} or ctrl-shift-i in vscode 
+date: 2023-08-25T21:49:21-05:00 # Get current iso 8601 date/time with {{ now.Format "2006-01-02T15:04:05-05:00" }} or ctrl-shift-i in vscode 
 draft: true
 cover:
     image: hugo_logo_wide.svg
