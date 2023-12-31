@@ -127,7 +127,7 @@ TAPE (T). You then pick a starting file number, 0 through 99. Next, you enter
 a name, up to 14 characters long. At this point, Bug Repellent verifies your
 entries and gives you a chance to change them if you want. If no changes are
 needed, Bug Repellent activates itself. (Pressing RETURN without answering the
-prompts defaults to disk drive and begins your files with “OOBACKUP”
+prompts defaults to disk drive and begins your files with “OOBACKUP”).
 
 As you enter program lines and press RETURN, a Bug Repellent code appears at
 the top of your screen. If it doesn’t match the code in the program listing, an
@@ -136,7 +136,7 @@ error exists. Correct the line and the codes will match.
 If used, automatic saves take place every 15 minutes. When the RETURN key is
 pressed on a program line, the screen changes color to let you know that a save
 will begin in about three seconds. You may cancel the save by pressing the RUN
-STOP key. The file number increments after cach save. It resets to 00 if 99 is
+STOP key. The file number increments after cache save. It resets to 00 if 99 is
 surpassed. After saving, or cancelling, the screen returns to its original color
 and the timer resets for 15 minutes.
 
